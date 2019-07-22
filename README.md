@@ -18,3 +18,7 @@ npm i
 index.js にID,PASSを記述
 node index.js
 ```
+
+## 注意点
+扱いには十分な注意を。
+責任は一切とれません。
