@@ -14,7 +14,7 @@ npm i
 
 実行
 
-- `index.js`にID,PASSを記述
 ```
+index.js にID,PASSを記述
 node index.js
 ```
