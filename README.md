@@ -13,6 +13,6 @@ npm i
 ```
 
 実行
-```
-node index.js
-```
+
+- `index.js`にID,PASSを記述
+- `node index.js`
